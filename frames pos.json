@@ -1,0 +1,29 @@
+{
+    "frames": {
+        "h01": {
+            "xywh": [
+                0.16,
+                0.48,
+                0.09,
+                0.17
+            ],
+            "model_used": "h",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "NG": [
+                    "ng"
+                ]
+            }
+        }
+    },
+    "models": {
+        "h": {
+            "class_names": [
+                "ok",
+                "ng"
+            ]
+        }
+    }
+}
